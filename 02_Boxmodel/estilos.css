@@ -1,0 +1,42 @@
+/* div{
+    border: solid 1px; color: rgb(207, 171, 105);
+} */
+
+.contenedor {
+    border: solid 1px rgb(0, 255, 234)
+}
+
+.contenedorUnicoyDiferente{
+    border: solid 1px rgb(0, 183, 255)
+}
+
+#contenedorConId{
+    background-color: rgba(224, 71, 160, 0.349)
+}
+
+h1{ 
+    border: solid 1px; color: rgba(165, 42, 99, 0.5); 
+    display: inline-block;
+    height: 100px;
+    font-family: 'Roboto Slab', serif;
+}
+
+p{
+    border: solid 1px; color: rgb(151, 42, 165); 
+  /*   display: inline;
+    height: 400px */
+    color: rgb(11, 12, 29);
+    font-family: 'Indie Flower', cursive;
+    
+}
+
+/* a{
+    border: solid 1px; color: rgb(147, 165, 42); 
+    display: inline;
+} */
+
+.imgUsuario{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}

@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+
+   /*  border: solid 1px red;  */
+    width: 100%;
+    /* padding-left: 800px */
+
+}
+.contenedor-nav{
+    /* border: solid 1px blue; */
+    width: 15%;
+    margin-left: 1150px;
+}
+
+main{
+    /* border: solid 1px rgb(34, 233, 84); */
+    width: 100%;
+    height: 600px;
+    padding-top: 100px;
+}
+
+.contenedor-items{
+    /* border: solid 1px rgb(233, 114, 34); */
+    width: 500px;
+    height: 400px;
+    margin-left: 400px;
+}
+
+.logo-google{
+    /* border: solid 1px rgb(233, 114, 34); */
+    width: 310px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+}
+
+.input-busqueda{
+  /*   border: solid 1px red; */
+    width: 300px;
+    height: 25px;
+    border-radius: 25px;
+    margin-left: 100px;
+}
+
+.contenedor-botones{
+    /* border: solid 1px red; */
+    width: 65%;
+    margin-left: 91px;
+    margin-top: 40px;
+
+}
+
+.btn-1 , .btn-2 {
+    margin-left: 10px;
+    width: 145px;
+}
